@@ -156,6 +156,11 @@ ul.pub-list li:last-child { border-bottom: none; }
 }
 .pub-link:hover { text-decoration: underline; }
 
+.you {
+  color: var(--accent);
+  font-weight: 600;
+}
+
 @media (max-width: 420px) {
   h1 { font-size: 34px; }
 }
